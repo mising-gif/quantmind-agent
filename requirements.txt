@@ -1,0 +1,10 @@
+openai==1.51.0
+ccxt==4.4.20
+pandas==2.2.3
+numpy==2.1.2
+pandas-ta==0.3.14b0
+python-dotenv==1.0.1
+requests==2.32.3
+fastapi==0.115.0
+uvicorn==0.30.6
+schedule==1.2.2
